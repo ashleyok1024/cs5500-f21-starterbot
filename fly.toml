@@ -1,4 +1,4 @@
-app = "fly-builder-muddy-shape-5841"
+app = "ancient-hill-2961.fly"
 
 kill_signal = "SIGINT"
 kill_timeout = 5
