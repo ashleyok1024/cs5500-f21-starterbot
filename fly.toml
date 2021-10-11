@@ -1,4 +1,4 @@
-app = "cs5500-f21-starterbot"
+app = "fly-builder-muddy-shape-5841"
 
 kill_signal = "SIGINT"
 kill_timeout = 5
