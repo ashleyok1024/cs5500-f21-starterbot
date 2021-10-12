@@ -1,4 +1,6 @@
-app = "ancient-hill-2961.fly"
+# fly.toml file generated for silent-sun-7709 on 2021-10-11T17:09:31-07:00
+
+app = "silent-sun-7709"
 
 kill_signal = "SIGINT"
 kill_timeout = 5
@@ -40,3 +42,4 @@ processes = []
     interval = "15s"
     restart_limit = 6
     timeout = "2s"
+
