@@ -46,7 +46,7 @@ public class App {
 
         commands.queue();
 
-        port(8080);
+        port(8080, "0.0.0.0");
 
         get(
                 "/",
